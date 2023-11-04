@@ -1,4 +1,8 @@
-# UnHeartIt
+# Deprecated
+WeHeartIt has announced that they are deleting **all** 12+ years worth of content and accounts and turn their existing brand into *yet another* image editing app with a subscription based paid model.
+All content, accounts and outstanding will be gone by November 30th 2023. If you're reading this before then, you can download *your uploaded* content at https://weheartit.com/settings/download
+
+## UnHeartIt
 
 A script to unheart all posts on a [WeHeartIt](https://weheartit.com/) account.
 
